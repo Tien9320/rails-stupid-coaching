@@ -1,0 +1,14 @@
+$gray: #F4F4F4;
+
+ body {
+  background: $gray; // Using this variable
+  width: 600px;
+  height: auto;
+ }
+.question, .answer{
+  padding: 10px;
+}
+.answer {
+  background-color: rgb(255, 243, 168);
+  border-left: 5px solid gray;
+}
